@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://rx-v4-162:5000",
+    "testToRun": "capacity",
+
+    "_avaibleTest": "load, stress, functional, realCase, capacity"
+}
